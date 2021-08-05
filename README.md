@@ -1,7 +1,8 @@
 ## Oiii, Eu sou o Leonardo dos Santos mas conhecido como **Codleo**
-- 👨‍💻 Hoje trabalho com Fullstack Junior
-- 🌱 Estudando: **Typescript,Javascript,PHP,React,Angular**
-- 😊 Pronouns: ele/dele
+## Hi, I'm Leonardo dos Santos but known as Codleo
+- 👨‍💻 Hoje trabalho como Fullstack Junior/Today I work as A Full Stack Junior
+- 🌱 Estudando/Learning: **Typescript ,Javascript ,PHP ,React , Angular**
+- 😊 Pronouns: ele/dele  he/his
 
 <div>
   <a href="https://github.com/Codleo">
@@ -16,7 +17,7 @@
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"><br>
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> 
 <img align="right" alt="Leo-HI"  src="https://cdn.discordapp.com/attachments/693911528482668647/872517465542885416/leo-hi.gif">
 </div>
