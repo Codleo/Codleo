@@ -1,7 +1,7 @@
 ## Oiii, Eu sou o Leonardo dos Santos mas conhecido como **Codleo**
 ## Hi, I'm Leonardo dos Santos but known as Codleo
-- 👨‍💻 Hoje trabalho como Fullstack Junior/Today I work as A Full Stack Junior
-- 🌱 Estudando/Learning: **Typescript ,Javascript ,PHP ,React , Angular**
+- 👨‍💻 Hoje trabalho como Backend Junior/Today I work as A Backend Junior
+- 🌱 Estudando/Learning: **Typescript ,Javascript ,PHP ,React , Angular,Net.Core,REST**
 - 😊 Pronouns: ele/dele  he/his
 
 <div>
